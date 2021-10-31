@@ -10,7 +10,7 @@ e) 'notif' - similar to 'else' keyword in C.
 While running the program after compilation the program will ask for the 'input file'. For that try using the below code, copy and paste the code in notepad and save the
 file with '.ubi' extension.
 
-//sample ubi program
+sample ubi program 
 ----------------------------------
 store a;
 store b=2;
